@@ -6,6 +6,7 @@ public class Starter {
 		System.out.println("Hello, Zepp!");
 		int x = 19;
 		int y =20;
+		int z = 21;
 
 	}
 
